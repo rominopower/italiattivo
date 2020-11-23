@@ -1,0 +1,121 @@
+[
+ {
+  "id":1,
+  "argomento":"Pronome diretto",
+  "genere":"maschile",
+  "numero":"singolare",
+  "esempio": "- Quando prendi il treno ?- - Lo prendo tra un'ora -",
+  "regola":"Lo"
+},
+{
+  "id":2,
+  "argomento":"Pronome diretto",
+  "genere":"maschile",
+  "numero":"plurale",
+  "esempio": "- Hai ritirato i soldi?- - Sì, li ho ritirati -",
+  "regola":"Li"
+},
+ {
+  "id":3,
+  "argomento":"Pronome diretto",
+  "genere":"femminile",
+  "numero":"singolare",
+  "esempio": "- Conosci Maria? - - Sì, la conosco già -",
+  "regola":"La"
+},
+ {
+  "id":4,
+  "argomento":"Pronome diretto",
+  "genere":"femminile",
+  "numero":"plurale",
+  "esempio": "- Mangi le verdure ?- - Sì, le mangio -",
+  "regola":"Le"
+},
+ {
+  "id":5,
+  "argomento":"Pronome indiretto",
+  "genere":"maschile",
+  "numero":"singolare",
+  "esempio": "- Hai telefonato a Giulio? - - Gli ho telefonato ieri -",
+  "regola":"Gli ( = A lui)"
+},
+ {
+  "id":6,
+  "argomento":"Pronome indiretto",
+  "genere":"maschile",
+  "numero":"plurale",
+  "esempio": "- Hai scritto ai parenti? - - Gli ho mandato una cartolina -",
+  "regola":"Gli ( = A loro)"
+},
+ {
+  "id":7, 
+  "argomento":"Pronome indiretto",
+  "genere":"femminile",
+  "numero":"singolare",
+  "esempio": "Le ho telefonato ieri",
+  "regola":"Le ( = A lei)"
+},
+ {
+  "id":8,
+  "argomento":"Pronome indiretto",
+  "genere":"femminile",
+  "numero":"plurale",
+  "esempio": "- Hai mandato l'invito alle ragazze ? - - Sì, gli ho mandato un invito formale -",
+  "regola":"Gli ( = A loro)"
+},
+ {
+  "id":9,
+  "argomento":"Pronome diretto",
+  "genere":"maschile",
+  "numero":"singolare",
+  "esempio": "- Hai visto Andrea? - - Si, l'ho visto in centro",
+  "regola":"Lo - L' (davanti a vocale)"
+},{
+  "id":10,
+  "argomento":"Pronome diretto",
+  "genere":"femminile",
+  "numero":"singolare",
+  "esempio": "- Hai comprato l'acqua minerale? - - Si, l'ho comprata al supermercato",
+  "regola":"La - L' (davanti a vocale)"
+},{
+  "id":11,
+  "argomento":"Particella NE",
+  "esempio": "- Vuoi una fetta di torta? - - Ne voglio due",
+  "regola": "Ne - Pronome diretto con una quantità, una parte di qualcosa / Di questo "
+},{
+  "id":12,
+  "argomento":"Pronome indiretto (maschile o femminile, singolare o plurale) + diretto maschile singolare",
+  "esempio": "- Compri il libro a tuo figlio (a tua figlia / ai tuoi figli / alle tue figlie) - - Si, GLIELO compro",
+  "regola":"Glielo - Gli (= a loro) + Lo"
+}
+,{
+  "id":13,
+  "argomento":"Pronome indiretto (maschile, femminile, singolare o plurale)  + diretto maschile plurale",
+  "esempio": "- Compri i libri a tuo figlio (a tua figlia / ai tuoi figli / alle tue figlie) - - Si, GLIELI compro",
+  "regola":"Glieli - Gli + Li"
+},
+{
+  "id":14,
+  "argomento":"Pronome indiretto (maschile o femminile, singolare o plurale) + diretto femminile singolare",
+  "esempio": "- Compri la macchina a tuo figlio (a tua figlia / ai tuoi figli / alle tue figlie) - - Si, GLIELA compro",
+  "regola":"Glielo - Gli (= a loro) + La"
+}
+,{
+  "id":15,
+  "argomento":"Pronome indiretto (maschile, femminile, singolare o plurale)  + diretto femminile plurale",
+  "esempio": "- Compri le scarpe a tuo figlio (a tua figlia / ai tuoi figli / alle tue figlie) - - Si, GLIELE compro",
+  "regola":"Glieli - Gli + Le"
+},
+{
+  "id":16,
+  "argomento":"Pronome indiretto (maschile o femminile, singolare o plurale) + diretto maschile singolare",
+  "esempio": "- Compri il libro a tuo figlio (a tua figlia / ai tuoi figli / alle tue figlie) - - Si, GLIELO compro",
+  "regola":"Glielo - Gli (= a loro) + Lo"
+}
+,{
+  "id":17,
+  "argomento":"Pronome indiretto (maschile, femminile, singolare o plurale)  + particella NE",
+  "esempio": "- Dai molti soldi a tuo figlio?(a tua figlia / ai tuoi figli / alle tue figlie)?  - - Si, GLIENE do moltissimi",
+  "regola":"Gliene - Gli + Ne"
+}
+]

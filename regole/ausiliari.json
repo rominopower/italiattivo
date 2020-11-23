@@ -1,0 +1,95 @@
+[
+ {
+  "id":1,
+  "argomento":"Essere",
+  "regola": "Essere - con essere, stare (restare - rimanere)",
+  "esempio": "Sono stato male"
+},
+{
+  "id":2,
+  "argomento":"Essere",
+  "regola": "Essere - verbi di movimento con destinazione",
+  "esempio": "sono andato al cinema"
+},
+ {
+  "id":3,
+  "argomento":"Essere",
+  "regola": "Essere - verbi che indicano cambiamento fisico o mentale (e quindi anche diventare)",
+  "esempio": "Sono invecchiato"
+},
+ {
+  "id":4,
+  "argomento":"Essere",
+  "regola": "Essere - verbi impersonali",
+  "esempio": "E' successa una cosa strana"
+},
+ {
+  "id":5,
+  "argomento":"Essere",
+  "regola": "Essere - verbi riflessivi",
+  "esempio": "Mi sono lavata"
+},
+ {
+  "id":6,
+  "argomento":"Essere",
+  "regola": "Essere - Forma passiva",
+  "esempio": "Questa sedia è stata comprata da me"
+},
+{
+  "id":7,
+  "argomento":"Essere",
+  "regola": "Essere - verbo riuscire",
+  "esempio": "Sono riuscito a superare l'esame"
+},
+{
+  "id":8,
+  "argomento":"Avere",
+  "regola": "Avere - Movimento con luogo non espresso (o sottinteso)",
+  "esempio": "Ho corso tutto il giorno"
+},
+{
+  "id":9,
+    "argomento":"Avere",
+  "regola": "Avere - verbo transitivo (che cosa?)",
+  "esempio": "Ho comprato due mele"
+},
+{
+  "id":10,
+    "argomento":"Avere",
+  "regola": "Avere o essere - Vivere",
+  "esempio": "è / ha vissuto molto"
+},
+{
+  "id":11,
+  "regola": "Avere o essere - Fenomeni atmosferici",
+  "esempio": "è / ha piovuto"
+},
+{
+  "id":12,
+  "regola": "Avere - Verbo intransitivo con avere",
+  "esempio": ""
+},
+{
+  "id":13,
+  "regola": "Essere - Verbo intransitivo con essere",
+  "esempio": ""
+},
+{
+  "id":14,
+  "argomento":"Avere",
+  "regola": "Verbi modali in senso assoluto",
+  "esempio": "Non ho potuto / L'ho voluto"
+},
+{
+  "id":15,
+  "argomento":"Essere",
+  "regola": "Verbi modali con pronome anticipato",
+  "esempio": "Non mi sono potuto riposare un secondo"
+},
+{
+  "id":16,
+  "argomento":"Avere",
+  "regola": "Verbi modali con pronome unito all'infinito",
+  "esempio": "Ho dovuto prendermi le mie responsabilità"
+}
+]

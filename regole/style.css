@@ -1,0 +1,471 @@
+/*
+Theme Name: Italiattivo
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: Fabrizio Giannone
+Author URI: https://wordpress.org/
+Description: bootstrap 3.0 elegant basic wordpress theme
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: stivale
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+ /*   padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+ margin:0px;
+ overflow-x:hidden;
+font-family: 'Oxygen', sans-serif;
+font-size:14px;
+color:black;
+height: 100%;
+}
+
+
+@font-face {
+ font-family: 'Muller';
+ src: url("fonts/Muller-ExtraBold.ttf") /* EOT file for IE */
+}
+
+@font-face {
+ font-family: 'Nexa';
+ src: url("fonts/NexaScript.otf") /* EOT file for IE */
+}
+
+@media (max-width: 575.98px) {
+  .homebox  {
+     font-size:80px;
+     line-height:80px;
+  }
+
+}
+
+
+@media (min-width: 576px) {
+  .sezione, .bloccohome {
+    height: 250px;
+  }
+   .homebox  {
+      font-size:150px;
+   }
+
+   .carousel {
+   height:250px;
+   }
+
+}
+
+.titolo {
+     font-family: 'Patua One';
+     font-size: 42px;
+     color:white;
+     padding-bottom: 40px;
+}
+
+.titolo_sidebar {
+     font-family: 'Patua One';
+     font-size: 18px;
+
+}
+
+
+.sezione {
+     font-family: 'Patua One';
+     font-size: 20px;
+
+}
+
+h2, h3{
+     font-family: 'Patua One';
+     font-size: 20px;
+}
+
+.sezione.esercizi {
+     background-color: #CCCCCC;
+}
+
+
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+body {
+    background: #cccccc; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#7E93AB, #e2e2e2); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#7E93AB, #e2e2e2); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#7E93AB, #e2e2e2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#7E93AB, #e2e2e2); /* Standard syntax */
+}
+
+.bloccohome {
+   /*  background: #cccccc; /* For browsers that do not support gradients */
+   /* background: -webkit-linear-gradient(#cccccc, #e2e2e2); /* For Safari 5.1 to 6.0 */
+   /* background: -o-linear-gradient(#cccccc, #e2e2e2); /* For Opera 11.1 to 12.0 */
+   /* background: -moz-linear-gradient(#cccccc, #e2e2e2); /* For Firefox 3.6 to 15 */
+   /* background: linear-gradient(#cccccc, #e2e2e2);  */
+   background: #DBECCA;
+}
+
+div {
+/* background-clip:content-box; */
+}
+
+.header-image {
+	position:relative;
+}
+#data {
+font-family: 'Roboto Slab', serif;
+font-weight: 700;
+position:absolute;
+top:20px;
+left:170px;
+color:#D00A09;
+font-size:26px;
+}
+
+.business-header {
+    height: 400px;
+    background: url('../../home.jpg') center center no-repeat scroll;
+    -webkit-background-size: auto 100%;
+    -moz-background-size:  auto 100%;
+    background-size:  auto 100%;
+    -o-background-size:  auto 100%;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    max-width:1400px !important;
+   }
+
+.headline {
+    padding: 120px 0;
+}
+
+/****************************** SLIDESHOW **************************/
+
+#row1 {
+padding-bottom:20px;
+}
+
+#slideshow {
+    padding-top:0px;
+    width:420px;
+    margin:auto;
+}
+
+.cubo {
+margin:auto;
+}
+
+
+
+.item {
+height:auto;
+}
+
+.carousel {
+  margin-bottom:20px;
+}
+
+.carousel-inner {
+border:2px solid white;
+}
+.carousel-item .row {
+  background-color: white;
+}
+
+.carousel-indicators {
+bottom:-12px;
+margin:auto !important;
+width:100%;
+left:auto;
+
+}
+
+.carousel-caption {
+    opacity:0.5px;
+    background-color:white;
+    color:black;
+    padding:0px;
+    bottom:0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.carousel-control-next, .carousel-control-prev {
+  display:none;
+}
+
+/**************************** MENU ************************************/
+#primary > li > a {
+	text-transform: uppercase;
+	color: white;
+}
+.nav>li>a {
+	padding:15px 30px;
+}
+#container-menu {
+
+    margin:0px 15px;
+    border-radius: 15px;
+}
+
+#primary {
+float:right;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: inherit !important;
+    text-decoration: underline;
+}
+
+/********************** SINGOLO PROGETTO ******************************/
+.single-project, .single-page {
+	padding:0px 20px;
+}
+
+.amcharts-main-div {
+background-color: white !important;
+}
+
+/**************************  HOME  ******************************/
+
+
+.bloccohome {
+text-align:center;
+}
+
+.barra_titolo {
+background-color:#009216;
+color:white;
+padding:10px 0px;
+text-transform: uppercase;
+}
+.barra_progetti{
+background-color:#D00A09;
+color:white;
+padding:10px 0px;
+text-transform: uppercase;
+}
+
+
+
+
+.home_article {
+
+margin-bottom:20px;
+}
+
+.bloccohome {
+
+    background-color: white;
+    border-radius: 25px;
+    width:100%;
+}
+
+.bloccohome div {
+
+    padding:10px;
+}
+
+
+
+
+
+img.img-home {
+	padding:20px 0px;
+}
+
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.white {
+    background-color: white;
+}
+
+.row {
+
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+/*** italiattivo */
+
+.sottotitolo {
+     font-size: 16px;
+     line-height: normal;
+}
+
+a.titoloheader {
+     color:white;
+     text-decoration: none;
+}
+a {
+     color:black;
+}
+
+   .giusto {
+        color:green;
+    }
+     .sbagliato {
+        color:red;
+    }
+
+    div.elenco  {
+     font-size: 12px;
+     font-family: Arial;
+
+ }
+
+ li.cat-item {
+     list-style: none;
+ }
+
+ a.listahome  {
+        font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+
+ }
+
+ .homebox {
+    font-family: 'Nexa';
+
+
+   color:#31708f;
+      text-shadow: 1px 1px #fe4902,
+                2px 2px #fe4902,
+                3px 3px #fe4902;
+
+ }
+
+
+
+ /* img {
+ -webkit-filter: drop-shadow(2px 2px 0 white)
+		drop-shadow(-2px 2px 0 white)
+		drop-shadow(2px -2px 0 white)
+      		drop-shadow(-2px -2px 0 white);
+
+	filter: drop-shadow(2px 2px 0 white)
+		drop-shadow(-2px 2px 0 white)
+		drop-shadow(2px -2px 0 white)
+       		drop-shadow(-2px -2px 0 white);
+ } */
+ .frase {
+     padding:5px 0px;
+ }
+
+ button#check {
+     margin:20px 0px;
+ }
+
+/* ordinamento */
+#risultato {
+     height:30px;
+     text-align: left;
+}
+
+#risultato > .giusto {
+     display: none;
+}
+
+#risultato > .sbagliato {
+     display: none;
+}
+
+
+
+/* singola frase */
+
+.aiuti {
+     font-style: italic;
+     padding:10px 0px;
+}
+
+.prossimo {
+    float: right;
+}
+.precedente {
+     float: left;
+}
+
+
+/* sidebar */
+
+.sideblocco {
+     padding-bottom: 20px;
+}
+
+
+
+
+/* tag */
+
+.boxcat {
+     height:170px;
+}
+
+.titolocat {
+     font-family: 'Muller';
+     font-size: 29px;
+}
+
+
+.tipo {
+     font-family: 'Nexa';
+    font-size: 24px;
+
+    color: #31708f;
+}
+
+.titolobox a {
+     font-size: 24px;
+     font-family: 'Patua One';
+}
+
+.boxcat {
+ margin-bottom: 20px;
+}
+
+/**** quadri ****/
+.frasequadro_ok i.material-icons {
+  color:green;
+}
+
+#draggable div {
+    margin: 3px 3px 3px 0;
+    padding: 10px 0px;
+    float: left;
+    background-color:#ccc;
+
+    font-size: 1em;
+    text-align: center;
+    display:inline-block;
+}
+
+#droppable div {
+    margin: 3px 3px 3px 0;
+    padding: 30px 0px;
+    float: left;
+    width: 100px;
+    height: 30px;
+    font-size: 1em;
+    text-align: center;
+    border:1px solid black;
+}

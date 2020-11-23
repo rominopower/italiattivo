@@ -1,0 +1,86 @@
+[
+ {
+  "id":1,
+  "argomento":"La",
+  "regola": "La - Femminile singolare",
+  "esempio": "La mattina"
+},
+ {
+  "id":2,
+  "argomento":"Il",
+  "regola": "Il - Maschile singolare",
+  "esempio": "Il giorno"
+},
+ {
+  "id":3,
+  "argomento":"L'",
+  "regola": "L' - articolo femminile singolare davanti a vocale (",
+  "esempio": "L'amica"
+},
+ {
+  "id":4,
+  "argomento":"L'",
+  "regola": "L' - articolo maschile singolare davanti a vocale",
+  "esempio": "L'amico"
+},
+ {
+  "id":5,
+  "argomento":"Le",
+  "regola": "Le - articolo femminile plurale (plurale di La)",
+  "esempio": "Le amiche"
+},
+ {
+  "id":6,
+  "argomento":"I",
+  "regola": "I - articolo maschile plurale (plurale di Il)",
+  "esempio": "I giorni"
+},
+ {
+  "id":7,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a S + consonante",
+  "esempio": "Lo scalino"
+},
+ {
+  "id":8,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a Z",
+  "esempio": "Lo zio"
+},
+ {
+  "id":9,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a Pn o Ps",
+  "esempio": "Lo psicologo"
+},
+{
+  "id":10,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a Gn",
+  "esempio": "Lo gnomo"
+},
+ {
+  "id":11,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a Y",
+  "esempio": "Lo yogurt"
+},
+ {
+  "id":12,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a X",
+  "esempio": "Lo xilofono"
+},
+{
+  "id":13,
+  "argomento":"Lo",
+  "regola": "Lo - articolo maschile singolare davanti a I o J seguito da vocale",
+  "esempio": "Lo juventino"
+},
+ {
+  "id":14,
+  "argomento":"Gli",
+  "regola": "Gli - articolo maschile plurale di Lo e L' ",
+  "esempio": "Gli ultimi"
+}
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "id":1,
+  "argomento":"Stare",
+  "regola": "Stare con avverbio (es.bene male)",
+  "esempio": "Non sto molto bene"
+},
+{
+  "id":2,
+  "argomento":"Stare",
+  "regola": "Indica rimanere o restare in una condizione o luogo",
+  "esempio": "Sta zitto! / Stasera sto a casa"
+},
+{
+  "id":3,
+  "argomento":"Stare",
+  "regola": "Stare + gerundio: indica un'azione che si sta compiendo",
+  "esempio": "Sto andando dal dottore"
+},
+{
+  "id":4,
+  "argomento":"Stare",
+  "regola": "Stare per: indica un'azione sul punto di compiersi ",
+  "esempio": "Sto per finire, mi mancano soltanto cinque minuti"
+},
+{
+  "id":5,
+  "argomento":"Starci",
+  "regola": "Starci può indicare essere d'accordo o disponibile ",
+  "esempio": "A queste condizioni non ci sto più!"
+},
+{
+  "id":6,
+  "argomento":"Starci",
+  "regola": "Starci = Entrarci",
+  "esempio": "In due non stiamo in questo letto"
+},
+{
+  "id":7,
+  "argomento":"Stare",
+  "regola": "Stare a + persona: toccare, spettare a qualcuno",
+  "esempio": "Sta a te capire se vuoi rimanere fidanzato con lei o no"
+},
+{
+  "id":8,
+  "argomento":"Essere",
+  "regola": "Stato in luogo: ove si trova qualcosa o qualcuno",
+  "esempio": "Luca è a Milano"
+},
+{
+  "id":9,
+  "argomento":"Essere",
+  "regola": "Indica la qualità o la condizione di un oggetto o una persona",
+  "esempio": "Luca è uno studente"
+},
+{
+  "id":10,
+  "argomento":"Esserci",
+  "regola": "Esserci: essere presenti / avere capito / essere pronti",
+  "esempio": "Passo a casa tua, ci sei?"
+}
+
+
+
+
+
+
+]
